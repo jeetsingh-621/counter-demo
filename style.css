@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1{
+font-size: 50px;
+margin: 20px 0px;
+}
+p{
+    color: rgb(129, 157, 129);
+    font-size: 30px;
+    margin: 20px 0px;
+}
+.buttons{
+    margin: 30px 0px;
+}
+.btn{
+    padding: 6px 30px;
+    margin: 0px 10px;
+}
+#error{
+    color: red;
+    font-size: 20px;
+    margin: 20px 0px;
+    display: none;
+}
+#clear{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 6px 40px;
+}
